@@ -4,7 +4,7 @@
 
 1. Install necessary dependencies either locally or using a virtual environment (ex. `conda`)
 
-2. Create a `.env` file and with an OpenAI API key (ex. `OPENAI_API=XXXXX`)
+2. Create a `.env` file and add your OpenAI API key (ex. `OPENAI_API=XXXXX`)
 
 ## How to Start
 
