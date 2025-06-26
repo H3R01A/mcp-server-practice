@@ -1,4 +1,4 @@
-# mcp-server-practice
+# Wikipedia MCP Agent POC
 
 ## Getting Started
 
